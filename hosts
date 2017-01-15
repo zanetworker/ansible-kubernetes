@@ -1,0 +1,7 @@
+
+[all]
+172.42.42.10 ansible_user=vagrant ansible_password=vagrant
+172.42.42.11 ansible_user=vagrant ansible_password=vagrant
+172.42.42.12 ansible_user=vagrant ansible_password=vagrant
+
+
